@@ -1,11 +1,11 @@
 # ApuQuant
-**Please download the latest version of OpenSpec in the release area on the right.**
+**Please download the latest version of ApuQuant in the release area on the right.**
 
 # Overview
-ApuQuant is an Orbitrap Astral DIA data analysis software that performs cohort-level re-identification and quantitation and processes identification results from existing DIA software (e.g., DIA-NN or Spectronaut). It recalls substantial false negatives without introducing false positives, and enables accurate and precise quantification while effectively reducing missing values.
+ApuQuant is an Orbitrap Astral DIA data analysis software that reads identification results from existing DIA software (e.g., DIA-NN or Spectronaut) and performs cohort-level re-identification and quantitation. It recalls substantial false negatives while suppressing false positives and enables accurate and precise quantification with markedly reduced missing values for downstream differentially expressed proteins detection and bioinformatics analysis.
 
 # Demo dataset
-The demo dataset has been deposited to the ProteomeXchange Consortium (https://proteomecentral.proteomexchange.org) via the iProX partner repository with the dataset identifier PXD063366. You can use the following link https://www.iprox.cn/page/project.html?id=IPX0011827000 to download Demo dataset for testing and using OpenSpec. 
+The demo dataset has been deposited to the ProteomeXchange Consortium (https://proteomecentral.proteomexchange.org) via the iProX partner repository. You can use the following link https://www.iprox.cn/page/project.html?id=IPX0016038000 to download Demo dataset for testing and using OpenSpec. 
 
 # Computer configuration
 RAM: 32G or higher is recommended
