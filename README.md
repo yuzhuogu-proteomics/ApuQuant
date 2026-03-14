@@ -15,4 +15,4 @@ ROM: for one raw data 10G or higher is recommended
 OS: Windows10 or higher
 
 # GUI Operation Usage
-Please read “Manual for ApuQuant.pdf” to learn the usage of ApuQuant.
+Please read “Manual for ApuQuant.pdf” to learn the usage of ApuQuant after downloading and decompressing the latest version of ApuQuant.
